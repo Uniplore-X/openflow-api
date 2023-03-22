@@ -6,3 +6,4 @@ lib
 browser
 .openflowapicache
 .nyc_output
+.idea
